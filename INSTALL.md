@@ -1,17 +1,12 @@
-### [Foobar](https://foobar.com)
+### [Libreddit](https://libreddit.net/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Dracula Theme is _already present_ in _Libreddit_. So, you don't need to install anything! However not all instances of Libreddit support Dracula Theme, though most of them do.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Navigate to the settings
+2. From the theme drop down, choose Dracula.
+3. Boom, Dracula theme 🧛🏻‍♂️!
+
