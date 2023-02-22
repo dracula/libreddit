@@ -9,4 +9,3 @@ Dracula Theme is _already present_ in _Libreddit_. So, you don't need to install
 1. Navigate to the settings
 2. From the theme drop down, choose Dracula.
 3. Boom, Dracula theme 🧛🏻‍♂️!
-
