@@ -1,4 +1,4 @@
-### [Libreddit](https://libreddit.net/)
+### [Libreddit](https://github.com/libreddit/libreddit)
 
 #### Install
 
