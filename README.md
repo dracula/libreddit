@@ -1,6 +1,6 @@
-# Dracula for [Libreddit](https://libreddit.net/)
+# Dracula for [Libreddit](https://github.com/libreddit/libreddit)
 
-> A dark theme for [Libreddit](https://libreddit.net/)
+> A dark theme for [Libreddit](https://github.com/libreddit/libreddit)
 
 ![Screenshot](./screenshot.png)
 
